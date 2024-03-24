@@ -195,5 +195,4 @@ arr = [1,10,2,12,8,4,9];
 
 console.log(sort(arr, 0 ,arr.length-1));
 
-
 console.log(binarySearch(arr, 4, 0, arr.length-1));
